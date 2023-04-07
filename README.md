@@ -1,4 +1,7 @@
 # S2023-PSTAT134
 
-Labs, Assignments, Notes, etc from PSTAT 134 during Spring 2023 at UCSB.
+Course Title:  Statistical Data Science
+
+Course Description:  Applications of advanced data science tools for data retrieval, statistical analysis and machine learning, optimization, and visualization. Multiple case studies will illustrate the practical use of these tools.
+
 All work done by Jennifer Rink.
